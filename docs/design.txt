@@ -1,0 +1,10 @@
+write frontend by pure html5/css/js
+no server template
+support php/python/asp.net/nodejs
+
+function:
+ - file system (list/copy/move/delete/upload/create)
+ - server (shutdown/restart)
+ - self (update/uninstall/secure)
+ - plugins (list/install/uninstall)
+  - yuricell
